@@ -31,3 +31,5 @@
   - 🌱 I’m currently learning <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <a>-</a>
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+![snake gif](https://github.com/WillBarbo/WillBarbo/blob/output/github-contribution-grid-snake.svg)
