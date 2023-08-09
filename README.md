@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Willian Barbosa
+### Hi there 👋🏾 I'm Willian Barbosa
 
 <div>
   <a href="https://github.com/WillBarbo">
