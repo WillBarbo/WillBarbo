@@ -32,4 +32,4 @@
     <a>-</a>
     <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-
+_generated with [Platane/snk](https://github.com/Platane/snk)_
