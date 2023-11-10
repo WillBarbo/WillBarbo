@@ -26,5 +26,3 @@
   <a title="Gmail" href = "mailto:willianbsilva96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a title="Linkedin" href="https://www.linkedin.com/in/willian-barbosa-82263b134" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-
